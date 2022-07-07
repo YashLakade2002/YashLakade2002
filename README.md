@@ -6,10 +6,10 @@
 ### <div align="center">I'm Yash, a student 💻 and a full-stack developer 🚀 </div>  
   
 
-- 🔭 I’m currently working on MERN and DSA  
+- 🔭 I’m currently working on MERN and DSA
   
 
-- 🌱 I’m currently learning Blockchain and related technologies  
+- 🌱 Blockchain and related technologies enthasiast  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
