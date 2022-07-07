@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on MERN and DSA
   
 
-- 🌱 Blockchain and related technologies enthasiast  
+- 🌱 Blockchain and related technologies enthusiast   
   
 
 - ⚡ Fun fact: I use tabs over spaces  
